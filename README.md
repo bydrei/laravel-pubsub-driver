@@ -1,8 +1,8 @@
 # Laravel Google Cloud pubsub Driver
 
-[![Latest Version](https://img.shields.io/github/release/esbenp/bruno.svg?style=flat-square)](https://github.com/bydrei/laravel-pubsub-driver/releases)
+[![Issues Open](https://img.shields.io/github/issues/bydrei/laravel-pubsub-driver)](https://github.com/bydrei/laravel-pubsub-driver/issues)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
-[![Total Downloads](https://img.shields.io/packagist/dt/optimus/bruno.svg?style=flat-square)](https://packagist.org/packages/bydrei/laravel-pubsub-drive)
+[![Total Downloads](https://img.shields.io/packagist/dt/bydrei/laravel-pubsub-drive.svg?style=flat-square)](https://packagist.org/packages/bydrei/laravel-pubsub-drive)
 
 ## Introduction
 
