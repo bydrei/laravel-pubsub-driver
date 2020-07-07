@@ -1,6 +1,6 @@
 {
   "name": "bydrei/laravel-pubsub-drive",
-  "description": "TBC",
+  "description": "Laravel implementation of GCP pubsub",
   "license": "MIT",
   "authors": [
     {
