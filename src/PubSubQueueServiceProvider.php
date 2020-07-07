@@ -1,7 +1,7 @@
 <?php
 namespace ByDrei;
 
-use App\Queue\Connectors\PubSubConnector;
+use ByDrei\Queue\Connectors\PubSubConnector;
 use Illuminate\Queue\QueueManager;
 use Illuminate\Support\ServiceProvider;
 

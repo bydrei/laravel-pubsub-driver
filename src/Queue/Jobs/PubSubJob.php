@@ -1,5 +1,5 @@
 <?php
-namespace ByDrei;
+namespace ByDrei\Queue\Jobs;
 
 use Google\Cloud\PubSub\Message;
 use Google\Cloud\PubSub\PubSubClient;
