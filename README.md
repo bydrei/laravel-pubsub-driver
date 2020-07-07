@@ -1,5 +1,6 @@
 # Laravel Google Cloud pubsub Driver
 
+[![Latest Version](https://img.shields.io/github/release/bydrei/laravel-pubsub-driver.svg?style=flat-square)](https://github.com/bydrei/laravel-pubsub-driver/releases)
 [![Issues Open](https://img.shields.io/github/issues/bydrei/laravel-pubsub-driver)](https://github.com/bydrei/laravel-pubsub-driver/issues)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 [![Total Downloads](https://img.shields.io/packagist/dt/bydrei/laravel-pubsub-drive.svg?style=flat-square)](https://packagist.org/packages/bydrei/laravel-pubsub-drive)
@@ -17,7 +18,7 @@ This is still in early development but it already does the following:
 Install the package
 
 ```bash
-composer require bydrei/laravel-pubsub-drive dev-develop
+composer require bydrei/laravel-pubsub-drive 1.0.0
 ```
 
 Publish the service provider
