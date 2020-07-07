@@ -13,7 +13,7 @@ class PubSubQueueServiceProvider extends ServiceProvider
         parent::register();
 
         $config = $this->app['config']->get('queue', []);
-        $this->app['config']->set('queue', $this->mergeConfig(require __DIR__ . '/queue.php', $config));
+        $this->app['config']->set('queue', $this->mergeConfig(require __DIR__.'/../config/queue.php', $config));
     }
 
     /**
