@@ -1,5 +1,5 @@
 <?php
-namespace ByDrei\Queue;
+namespace ByDrei;
 
 use App\Queue\Jobs\PubSubJob;
 use Illuminate\Contracts\Queue\Job;

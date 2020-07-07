@@ -1,5 +1,5 @@
 <?php
-namespace ByDrei\Providers;
+namespace ByDrei;
 
 use App\Queue\Connectors\PubSubConnector;
 use Illuminate\Queue\QueueManager;
@@ -21,7 +21,7 @@ class PubSubQueueServiceProvider extends ServiceProvider
         });
 
         $this->publishes([
-            __DIR__.'/config/queue.php' => config_path('queue.php'),
+            __DIR__.'/queue.php' => config_path('queue.php'),
         ]);
     }
 }

@@ -1,5 +1,5 @@
 <?php
-namespace ByDrei\Queue\Connectors;
+namespace ByDrei;
 
 use Illuminate\Contracts\Queue\Queue;
 use Illuminate\Queue\Connectors\ConnectorInterface;
