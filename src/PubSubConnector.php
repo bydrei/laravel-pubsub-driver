@@ -1,9 +1,9 @@
 <?php
-namespace ByDrei\Queue\Connectors;
+namespace ByDrei;
 
 use Illuminate\Contracts\Queue\Queue;
 use Illuminate\Queue\Connectors\ConnectorInterface;
-use ByDrei\Queue\PubSubQueue;
+use ByDrei\PubSubQueue;
 use Google\Cloud\PubSub\PubSubClient;
 
 class PubSubConnector implements ConnectorInterface
