@@ -1,7 +1,7 @@
 <?php
 namespace ByDrei;
 
-use Bydrei\PubSubJob;
+use ByDrei\PubSubJob;
 use Illuminate\Contracts\Queue\Job;
 use Illuminate\Contracts\Queue\Queue as QueueInterface;
 use Illuminate\Queue\Queue;
