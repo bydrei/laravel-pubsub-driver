@@ -1,6 +1,7 @@
 {
   "name": "bydrei/laravel-pubsub-drive",
   "description": "TBC",
+  "license": "MIT",
   "authors": [
     {
       "name": "Andre Ferraz",
