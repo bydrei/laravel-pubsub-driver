@@ -18,7 +18,7 @@ This is still in early development but it already does the following:
 Install the package
 
 ```bash
-composer require bydrei/laravel-pubsub-drive 1.0.0
+composer require bydrei/laravel-pubsub-driver 1.0.0
 ```
 
 Publish the service provider
