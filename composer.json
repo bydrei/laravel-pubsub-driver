@@ -1,5 +1,5 @@
 {
-  "name": "bydrei/laravel-pubsub-drive",
+  "name": "bydrei/laravel-pubsub-driver",
   "description": "Laravel implementation of GCP pubsub",
   "license": "MIT",
   "authors": [
